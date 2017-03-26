@@ -22,3 +22,28 @@
 2. これは順序つきリストの2番目です。
 3. これは順序つきリストの3番目です。
 4. これは順序つきリストの4番目です。
+
+アスタリスクひとつで囲むと*斜体*になります。
+
+`<p>これはPタグ</p>`というように書くとブラウザでは段落として表示されます。
+
+    <div>
+      <p>これはdivの中にある</p>
+    </div>
+
+[google](https://www.google.co.jp/)
+![googleロゴ](https://www.google.co.jp/images/srpr/logollw.png)
+
+> これは引用されている文です。
+
+- コミットID: 20ea9ebd71e8c2db4b993a8ae138c6cd1302110d
+- #Issue番号: #24
+- ユーザー/リポジトリ #Issue番号: github/octions#24
+
+```html
+<a href="http://www..example.com">サンプル</a>
+```
+
+- [ ] TODO1
+- [x] TODO2
+    - [ ] TODO2.1
