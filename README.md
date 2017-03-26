@@ -41,7 +41,7 @@
 - ユーザー/リポジトリ #Issue番号: github/octions#24
 
 ```html
-<a href="http://www..example.com">サンプル</a>
+<a href="http://www.example.com">サンプル</a>
 ```
 
 - [ ] TODO1
