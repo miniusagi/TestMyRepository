@@ -32,7 +32,7 @@
     </div>
 
 [google](https://www.google.co.jp/)
-![googleロゴ](https://www.google.co.jp/images/srpr/logollw.png)
+![googleロゴ](https://www.google.co.jp/images/srpr/logo11w.png)
 
 > これは引用されている文です。
 
