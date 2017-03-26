@@ -38,10 +38,10 @@
 
 - コミットID: 20ea9ebd71e8c2db4b993a8ae138c6cd1302110d
 - #Issue番号: #24
-- ユーザー/リポジトリ #Issue番号: github/octions#24
+- ユーザー/リポジトリ #Issue番号: github/octicons#24
 
 ```html
-<a href="http://www..example.com">サンプル</a>
+<a href="http://www.example.com">サンプル</a>
 ```
 
 - [ ] TODO1
